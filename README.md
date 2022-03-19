@@ -8,9 +8,16 @@
 
 ### Connet with me:
 
+[![website](./img/instagram.png)](https://www.instagram.com/elroy_pedro/)
+&nbsp;&nbsp;
+[![website](./img/linkedin.png)](https://www.linkedin.com/in/elroypedrokameo/)
+&nbsp;&nbsp;
 
-### Languages and Tools:
+### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elroypedrokameo&layout=compact)](https://github.com/elroypedrokameo/github-readme-stats)
 
-## Github Stats
-![Elroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical" />
