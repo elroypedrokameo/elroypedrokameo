@@ -6,13 +6,14 @@
 - 📫 How to reach me: @elroypedrokameo10@gmail.com and https://www.linkedin.com/in/elroypedrokameo/
 
 
-### :zap: GitHub Stats
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical" />
-  
-
 
 ### :zap: Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elroypedrokameo&layout=compact)](https://github.com/elroypedrokameo/github-readme-stats)
 
+
+
+### :zap: GitHub Stats
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical" />
+  
 
