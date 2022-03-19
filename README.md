@@ -6,18 +6,10 @@
 - 📫 How to reach me: @elroypedrokameo10@gmail.com
 
 
-### Connet with me:
-
-[![website](./img/instagram.png)](https://www.instagram.com/elroy_pedro/)
-&nbsp;&nbsp;
-[![website](./img/linkedin.png)](https://www.linkedin.com/in/elroypedrokameo/)
-&nbsp;&nbsp;
-
 ### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elroypedrokameo&layout=compact)](https://github.com/elroypedrokameo/github-readme-stats)
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical" />
