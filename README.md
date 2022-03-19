@@ -7,3 +7,9 @@
 
 
 ### Connet with me:
+
+
+
+
+## Github Stats
+[![Elroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroypedrokameo)](https://github.com/elroypedrokameo/github-readme-stats)
