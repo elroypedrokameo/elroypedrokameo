@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front End Engineering at Ruangguru CAMP
 - 👯 I’m looking to collaborate on Freelance and Part Time
 - 💬 Ask me about Web Development
-- 📫 How to reach me: @elroypedrokameo10@gmail.com and https://www.linkedin.com/in/elroypedrokameo/
+- 📫 How to reach me: @elroypedrokameo10@gmail.com and [LinkedIn](https://www.linkedin.com/in/elroypedrokameo/)
 
 
 
