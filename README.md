@@ -10,7 +10,7 @@
 
 
 ### Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elroypedrokameo&exclude_repo=github-readme-stats,elroypedrokameo.github.io)](https://github.com/elroypedrokameo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elroypedrokameo&layout=compact)](https://github.com/elroypedrokameo/github-readme-stats)
 
 ## Github Stats
 ![Elroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical)
