@@ -12,4 +12,4 @@
 
 
 ## Github Stats
-[![Elroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroypedrokameo)](https://github.com/elroypedrokameo/github-readme-stats)
+![Elroy's GitHub stats](https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical)
