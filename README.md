@@ -7,13 +7,13 @@
 
 
 
-### :zap: Top Languages:
+### :zap: Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elroypedrokameo&layout=compact)](https://github.com/elroypedrokameo/github-readme-stats)
 
 
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical" />
+  <img align="left" alt="Elroy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elroypedrokameo&show_icons=true&theme=radical" />
   
 
