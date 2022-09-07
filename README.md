@@ -1,6 +1,6 @@
 ### Hi there, I'm Elroy 👋
 
-- 🌱 I’m currently learning Front End Engineering at Ruangguru CAMP
+- 🌱 I’m currently learning Front End Engineering
 - 👯 I’m looking to collaborate on Freelance, Part Time and Full Time
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elroypedrokameo/)
