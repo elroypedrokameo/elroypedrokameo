@@ -1,6 +1,6 @@
 ### Hi there, I'm Elroy 👋
 
-- 🌱 I’m currently I work as a Frontend Developer at [bookingtogo.com](bookingtogo.com)
+- 🌱 I’m currently I work as a Frontend Developer at [bookingtogo.com](https://bookingtogo.com/)
 - 👯 I’m looking to collaborate on Freelance, Part Time and Full Time
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elroypedrokameo/)
